@@ -1,1 +1,1 @@
-<h1>Documents</h1>
+<h1 style="color:cornflowerblue">Documents</h1>
